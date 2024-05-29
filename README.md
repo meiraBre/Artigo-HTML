@@ -31,8 +31,9 @@
 > O subtema é html, com foco nas tags.
 > Diga o que é, para que serve, as 10 mais usadas e me dê informações adicionais pertinentes para quem está começando a desenvolver sites.
 
-Ilustrações da capa : geradas pela Lexica.Art
-Conteúdo gerado por: Chat GPT e revisões humanas
+## 🛠️ Ferramentas
+- Ilustrações: geradas pela Lexica.Art
+- Conteúdo gerado por: Chat GPT e revisões humanas
 
 💕 Conteúdo gerado com muito amor e dedicação durante o período que estou fazendo o Bootcamp da DIO de Fundamentos de IA para Devs.
 ### 💻 Conecte-se comigo: [Linkedin](https://www.linkedin.com/in/meirabrenda540/)
